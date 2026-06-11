@@ -1,7 +1,3 @@
-[![MasterHead](https://www.siegpartners.com/wp-content/uploads/2022/08/Flutter-1000-x-800.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Edwin Bustamante</h1>
-<h3 align="center">A passionate mobile developer from Bolivia</h3>
-
 # 👋 Hola, soy Edwin Bustamante
 
 ## Senior Flutter Developer | Mobile Engineer | Ingeniero de Software
